@@ -3,5 +3,5 @@ Omegafeeder is a Omega2 powered cat feeding machine. This repository is probably
 
 
 ## Links
-[omegafeeder-server](https://github.com/k1sul1/omegafeeder-server)
-[omegafeeder-client](https://github.com/k1sul1/omegafeeder-client)
+* [omegafeeder-server](https://github.com/k1sul1/omegafeeder-server)
+* [omegafeeder-client](https://github.com/k1sul1/omegafeeder-client)
